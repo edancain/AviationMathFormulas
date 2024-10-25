@@ -1,0 +1,4 @@
+/Users/edancain/Documents/Code Projects/AviationMathFormulas/AviationMathFormulas.Core/obj/Debug/net8.0/AviationMathFormulas.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edancain/Documents/Code Projects/AviationMathFormulas/AviationMathFormulas.Core/obj/Debug/net8.0/AviationMathFormulas.Core.AssemblyInfoInputs.cache
+/Users/edancain/Documents/Code Projects/AviationMathFormulas/AviationMathFormulas.Core/obj/Debug/net8.0/AviationMathFormulas.Core.AssemblyInfo.cs
+/Users/edancain/Documents/Code Projects/AviationMathFormulas/AviationMathFormulas.Core/obj/Debug/net8.0/AviationMathFormulas.Core.csproj.CoreCompileInputs.cache
