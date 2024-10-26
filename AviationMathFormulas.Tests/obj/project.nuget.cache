@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2p4Mwwvvtjw=",
+  "dgSpecHash": "426hCVL1Zyk=",
   "success": true,
   "projectFilePath": "/Users/edancain/Documents/Code Projects/AviationMathFormulas/AviationMathFormulas.Tests/AviationMathFormulas.Tests.csproj",
   "expectedPackageFiles": [
-    "/Users/edancain/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/edancain/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/edancain/.nuget/packages/microsoft.applicationinsights/2.22.0/microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "/Users/edancain/.nuget/packages/microsoft.codecoverage/17.11.1/microsoft.codecoverage.17.11.1.nupkg.sha512",
     "/Users/edancain/.nuget/packages/microsoft.net.test.sdk/17.11.1/microsoft.net.test.sdk.17.11.1.nupkg.sha512",

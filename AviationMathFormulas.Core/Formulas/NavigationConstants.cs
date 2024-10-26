@@ -1,4 +1,4 @@
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Constants and utility methods used across the navigation calculations

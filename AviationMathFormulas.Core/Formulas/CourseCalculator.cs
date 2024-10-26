@@ -1,5 +1,4 @@
-
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Provides course calculation functionality

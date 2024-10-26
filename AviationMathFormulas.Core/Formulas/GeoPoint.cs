@@ -1,4 +1,4 @@
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Represents a geographic coordinate point
@@ -10,7 +10,7 @@ namespace GreatCircleNavigation
 
         public GeoPoint(double latitude, double longitude)
         {
-            ValidateCoordinates(latitude, longitude, "point");
+            NavigationUtils.ValidateCoordinates(latitude, longitude, "point");
             Latitude = latitude;
             Longitude = longitude;
         }

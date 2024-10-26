@@ -1,4 +1,4 @@
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Represents the intersection point and calculation result

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AviationMathFormulas.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb858776ff29208772b6d2ef1b06a0636bbdef3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AviationMathFormulas.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AviationMathFormulas.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

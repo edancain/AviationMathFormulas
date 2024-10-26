@@ -1,6 +1,4 @@
-using System;
-
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Provides core distance calculation functionality

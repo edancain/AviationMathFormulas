@@ -1,4 +1,4 @@
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Utility methods for coordinate validation and angle conversions

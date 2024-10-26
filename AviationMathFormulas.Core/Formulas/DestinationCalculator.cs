@@ -1,4 +1,4 @@
-namespace GreatCircleNavigation
+namespace AviationMathFormulas.Core.Formulas
 {
     /// <summary>
     /// Provides destination point calculation functionality
