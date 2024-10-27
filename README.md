@@ -119,6 +119,27 @@ Console.WriteLine($"Distance: {distanceKm:F2} km");
 Console.WriteLine($"Initial Course: {courseDegrees:F2}°");
 ```
 
+# Cross Track Error 
+```csharp
+var wind = new WindData 
+{ 
+    Speed = 25,        // 25 knots
+    Direction = 270    // Wind from west
+};
+
+var correction = CrossTrackCalculator.CalculateReturnToPathCorrection(
+    start, end, current, 
+    trueAirspeed: 120, // Aircraft speed in knots
+    wind: wind
+);
+
+Console.WriteLine($"Path Correction: {correction.CorrectionAngle:F1}°");
+Console.WriteLine($"Wind Correction: {correction.WindCorrectionAngle:F1}°");
+Console.WriteLine($"Total Correction: {correction.TotalCorrection:F1}°");
+Console.WriteLine($"New Course to Fly: {correction.NewCourse:F1}°");
+Console.WriteLine($"Ground Speed: {correction.GroundSpeed:F1} knots");
+```
+
 ## Contributing
 I would love to work with anyone that wants to help extend this work. 
 
